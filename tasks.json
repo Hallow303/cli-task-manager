@@ -1,0 +1,22 @@
+{
+    "1": {
+        "task": "Leave a star on the project \u2b50",
+        "status": "In progress"
+    },
+    "2": {
+        "task": "Add a new task to the list \ud83d\udcdd",
+        "status": "In progress"
+    },
+    "3": {
+        "task": "Drink a glass of water \ud83d\udca7",
+        "status": "In progress"
+    },
+    "4": {
+        "task": "Take a short break \u2615",
+        "status": "In progress"
+    },
+    "5": {
+        "task": "Eat some cookies \ud83c\udf6a",
+        "status": "In progress"
+    }
+}

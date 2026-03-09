@@ -3,8 +3,8 @@
 🌐 **Languages**
 
 [![English](https://img.shields.io/badge/English-blue?style=for-the-badge)](/README.md)
-[![Español](https://img.shields.io/badge/Español-red?style=for-the-badge)](lang/README_ES.md)
-[![한국어](https://img.shields.io/badge/한국어-purple?style=for-the-badge)](lang/README_KO.md)
+[![Español](https://img.shields.io/badge/Español-red?style=for-the-badge)](README_ES.md)
+[![한국어](https://img.shields.io/badge/한국어-purple?style=for-the-badge)](README_KO.md)
 
 Um simples gerenciador de tarefas em linha de comando feito com Python. Este projeto permite que os usuários gerenciem suas tarefas diárias diretamente pelo terminal de forma rápida e prática.
 

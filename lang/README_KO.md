@@ -3,8 +3,8 @@
 🌐 **Languages**
 
 [![English](https://img.shields.io/badge/English-blue?style=for-the-badge)](/README.md)
-[![Português](https://img.shields.io/badge/Português-green?style=for-the-badge)](lang/README_PT.md)
-[![Español](https://img.shields.io/badge/Español-red?style=for-the-badge)](lang/README_ES.md)
+[![Português](https://img.shields.io/badge/Português-green?style=for-the-badge)](README_PT.md)
+[![Español](https://img.shields.io/badge/Español-red?style=for-the-badge)](README_ES.md)
 
 Python으로 만든 간단한 명령줄 기반 작업 관리자입니다. 이 프로젝트는 사용자가 터미널에서 빠르고 실용적으로 일상적인 작업을 관리할 수 있도록 합니다.
 

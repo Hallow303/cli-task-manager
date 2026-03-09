@@ -19,7 +19,7 @@ A simple command-line task manager built with Python. This project allows users 
 
 ### How it works
 
-Tasks are stored in a local `taks.json` file. Each task contains:
+Tasks are stored in a local `tasks.json` file. Each task contains:
 
 * **ID** – unique identifier
 * **Task description**
@@ -68,3 +68,4 @@ This project was created as a learning exercise to practice:
 * Working with JSON data
 * Building simple CLI applications
 * Organizing code with functions
+
